@@ -1,2 +1,4 @@
 venv/
 venv/
+venv/lib/python3.8/site-packages/onnxruntime/capi/onnxruntime_pybind11_state.so
+venv/lib/python3.8/site-packages/torch/lib/libtorch_cpu.dylib
